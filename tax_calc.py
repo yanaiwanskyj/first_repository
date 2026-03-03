@@ -18,7 +18,7 @@ def income_tax_due(income):
         income_at_20_perc = taxable_income - 20000
 
 
-    income_at_50_perc = 'z'
+    income_at_50_perc = '7'
     test= 0
     if income_at_50_perc > 50000:
         print('income too high for calculator')
